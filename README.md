@@ -1,1 +1,1 @@
-# js_truefalse
+This is the True / False exercise for Refugees Code course. 
